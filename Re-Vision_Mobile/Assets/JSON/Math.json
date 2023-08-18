@@ -1,0 +1,64 @@
+{
+    "id" : "11223344",
+    "theme" : "Math",
+    "name" : "Sample",
+    "url" : "https://drive.google.com/uc?export=download&id=1haIrgJ9kbBLXqUDd6CaSlWcP7J-gYEOM",
+    "questions":[
+        {
+            "id" : 1,
+            "question" : "8 / 2(2+2)",
+            "image" : "Question/vignette-enigme-mathematiques-8-2-2-2.png",
+            "correct" : 1,
+            "answers1" :  "1",
+            "answers2" :  "16",
+            "answers3" :  "4",
+            "answers4" :  "666"     
+        },
+        {
+            "id" : 2,
+            "question" : "2 * 2",
+            "image" : "2 plus 2.png",
+            "correct" : 4,
+            "answers1" :  "22",
+            "answers2" :  "2",
+            "answers3" :  "8",
+            "answers4" :  "4"        
+        },
+        {
+            "id" : 3,
+            "question" : "ln(0)",
+            "correct" : 3,
+            "answers1" :  "0",
+            "answers2" :  "1",
+            "answers3" :  "impossible",
+            "answers4" :  "-1"        
+        },
+        {
+            "id" : 4,
+            "question" : "3+2^2",
+            "correct" : 1,
+            "answers1" :  "7",
+            "answers2" :  "25",
+            "answers3" :  "8",
+            "answers4" :  "10"        
+        },
+        {
+            "id" : 5,
+            "question" : "((2+3)*0)*3",
+            "correct" : 3,
+            "answers1" :  "15",
+            "answers2" :  "3",
+            "answers3" :  "0",
+            "answers4" :  "25"        
+        } 
+    ],
+    "rewards":[
+        {
+            "id" : 1,
+            "type" : "Body",
+            "image" : "Body/Body_Cosm2.png",
+            "criteria" : "ZeroFail",
+            "criteria_quantity" : 1
+        }
+    ]
+}
